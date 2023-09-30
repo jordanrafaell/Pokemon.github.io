@@ -18,4 +18,4 @@ Você pode contribuir para esta página simplesmente deixando uma estrela no rep
 <img  alt="HTML"  style="padding-right:10px;" src="https://github.com/jordanrafaell/Pokemon.github.io/assets/61181764/4715163c-f360-446f-92ae-0285fefd87c6"/>
 
 Acessando a Página
-Você pode acessar nossa página estática sobre Pokémon através do seguinte link: [Página Pokémon]((https://jordanrafaell.github.io/Pokemon.github.io/))
+Você pode acessar nossa página estática sobre Pokémon através do seguinte link: [Página Pokémon](https://jordanrafaell.github.io/Pokemon.github.io/)
